@@ -1,4 +1,4 @@
-[Image](https://i.imgur.com/mJuHAnz.png)
+![Image](https://i.imgur.com/mJuHAnz.png)
 
 You can use the [editor on GitHub](https://github.com/TaZerServers/Issues/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
